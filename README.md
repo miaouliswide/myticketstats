@@ -66,12 +66,12 @@
    ```bash
    CREATE DATABASE ticket_stats;
    
-   ```bash
    php artisan migrate
 
 ## License
 This project is open-source and available under the MIT License.
 
 ## Roadmap
-API Endpoints for external integrations
-Export Reports in CSV/PDF
+-API Endpoints for external integrations
+
+-Export Reports in CSV/PDF
