@@ -75,3 +75,9 @@ This project is open-source and available under the MIT License.
 -API Endpoints for external integrations
 
 -Export Reports in CSV/PDF
+![chrome_Vo0PY8wx5N](https://github.com/user-attachments/assets/530e9455-5660-4150-8fc1-8bffa3ad7e74)
+
+![chrome_aYzk1N8mp3](https://github.com/user-attachments/assets/86cca42c-1d76-4efa-ba73-b9acd25a88ea)
+
+![chrome_XGIbHLG0Pq](https://github.com/user-attachments/assets/5151e620-37c7-4087-94c7-6a7fb4e70914)
+
