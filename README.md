@@ -40,3 +40,27 @@
    ```bash
    git clone https://github.com/miaouliswide/ticket-stats.git
    cd ticket-stats
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+   npm install chart.js
+3. **env file**:
+    APP_NAME="Ticket Stats"
+    APP_ENV=local
+    APP_KEY=
+    APP_DEBUG=true
+    APP_URL=http://localhost:8000
+    
+    DB_CONNECTION=mysql
+    DB_HOST=127.0.0.1
+    DB_PORT=3306
+    DB_DATABASE=ticket_stats
+    DB_USERNAME=your_username
+    DB_PASSWORD=your_password
+4. **Generate app key**:
+   php artisan key:generate
+5. **Create Database**:
+   CREATE DATABASE ticket_stats;
+
+   php artisan migrate
