@@ -38,5 +38,5 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ticket-stats.git
+   git clone https://github.com/miaouliswide/ticket-stats.git
    cd ticket-stats
