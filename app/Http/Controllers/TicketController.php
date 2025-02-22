@@ -9,7 +9,7 @@ class TicketController extends Controller
 {
     public function dashboard(Request $request)
     {
-        // Build the base query
+        //base query
         $query = Ticket::query();
 
         // Apply filters based on request input
